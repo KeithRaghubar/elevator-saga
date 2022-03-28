@@ -1,3 +1,5 @@
+// Challenge #1: Transport 15 people in 60 seconds or less
+
 {
     init: function(elevators, floors) {
         var elevator = elevators[0]; // Let's use the first elevator

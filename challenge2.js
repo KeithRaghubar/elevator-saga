@@ -1,3 +1,5 @@
+// Challenge #2: Transport 20 people in 60 seconds or less
+
 {
     init: function(elevators, floors) {
         function removeItem(arr, item) {

@@ -1,3 +1,5 @@
+// Challenge #5: Transport 100 people in 68 seconds or less
+
 {
     init: function(elevators, floors) {
         // Remove all occurences of item from array arr
